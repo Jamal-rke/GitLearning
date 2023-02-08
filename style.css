@@ -1,0 +1,32 @@
+
+/*p **This program is for external.html
+ {
+    color:red;
+    font-weight: bold;
+    font-size:50px;
+} */
+
+/* p
+{
+    color: blue;
+} */
+ 
+
+div p
+{
+    color: darkcyan;
+         
+}
+#firstPara
+/* # (hash) is used for class) */
+{
+color:yellow; 
+background-color: aquamarine; 
+}
+ 
+.firstPara
+/* . (dot) is used for class) */
+{
+    color:turquoise;
+    
+}
